@@ -28,7 +28,7 @@ Aplicación web para el aprendizaje de idiomas a través de retos interactivos. 
 ## ⚙️ Instalación local (para desarrollo)
 
 ```bash
-git clone https://github.com/tuusuario/idioma-retos-app.git
+git clone https://github.com/estudiante89/idiomas_games.git
 cd idiomas_games
 npm install
 npm run dev
