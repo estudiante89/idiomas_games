@@ -19,9 +19,9 @@ Aplicación web para el aprendizaje de idiomas a través de retos interactivos. 
 |------|-------------|
 | `main` | Rama de producción (versión final en Vercel) |
 | `develop` | Rama base para unir todos los módulos |
-| `feature/usuario` | Módulo de gestión de usuarios |
-| `feature/citas` | Módulo de gestión de citas |
-| `feature/prescripciones` | Módulo de prescripciones médicas |
+| `feature/aprendizaje` | Módulo de aprendizaje |
+| `feature/games` | Módulo de games |
+| `feature/retos` | Módulo de retos |
 
 ---
 
