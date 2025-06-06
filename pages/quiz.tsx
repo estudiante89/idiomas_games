@@ -21,7 +21,7 @@ export default function Quiz() {
     if (siguiente < preguntas.length) {
       setIndice(siguiente);
     } else {
-      localStorage.setItem('puntos', puntos + (opcion === preguntas[indice].respuesta ? 1 : 0));
+      localStorage.setItem('puntos', (puntos + (opcion === preguntas[indice].respuesta ? 1 : 0)).toString());
       router.push('/progreso');
     }
   };
